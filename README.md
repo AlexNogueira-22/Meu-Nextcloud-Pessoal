@@ -1,6 +1,6 @@
 # Meu-Nextcloud-Pessoal
 ### Autor: Alex Nogueira
-Breve tutorial para criar um servidor Nextcloud pessoal com Docker e Tailscale no Windows/WSL
+Depois de muito pesquisar e de varias tentativas, após consegui fazer meu Drive Local em Nuvem com exito, fiz esse breve tutorial para criar um servidor Nextcloud pessoal com Docker e Tailscale no Windows/WSL com a experiencia que adquiri. 
 
 ### 🚀 Introdução
 
